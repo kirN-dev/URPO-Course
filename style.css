@@ -2,11 +2,14 @@
 
 body {
     font-family: 'Raleway', sans-serif;
-    background: url('Images/background.jpg')
+    background: url('Images/background.jpg');
+    padding: 100px 0;
 }
 
 .container {
     width: 800px;
     min-height: 800px;
-    border: 2px solid red;
+    border: 10px solid #ffffff;
+    margin: 0 auto;
+    background: #ffffff;
 }
